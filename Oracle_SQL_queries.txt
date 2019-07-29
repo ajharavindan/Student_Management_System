@@ -1,0 +1,4 @@
+Creating table in oracle database:
+create table student(RNO int, NAME varchar(40), MARKS int);
+
+Data input is through GUI
